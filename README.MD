@@ -4,7 +4,6 @@
 ## Project's links
 https://github.com/tensorflow/tensorflow/issues/58859
 https://discuss.tensorflow.org/t/how-can-i-solve-invalidargumenterror-graph-execution-error/17017/3
-https://www.google.com/
 https://github.com/PizaaRiaaa/garbage-classification/blob/main/garbage_classification_semaphore.ipynb
 https://stackoverflow.com/questions/74667876/typeerror-weight-decay-is-not-a-valid-argument-kwargs-should-be-empty-for-opt
 https://pypi.org/project/torchvision/

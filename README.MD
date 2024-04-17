@@ -1,6 +1,19 @@
 # Neuro Classificator
 ## Installing
 ```pip install requirements.txt```
+## Project's links
+https://github.com/tensorflow/tensorflow/issues/58859
+https://discuss.tensorflow.org/t/how-can-i-solve-invalidargumenterror-graph-execution-error/17017/3
+https://www.google.com/
+https://github.com/PizaaRiaaa/garbage-classification/blob/main/garbage_classification_semaphore.ipynb
+https://stackoverflow.com/questions/74667876/typeerror-weight-decay-is-not-a-valid-argument-kwargs-should-be-empty-for-opt
+https://pypi.org/project/torchvision/
+https://habr.com/ru/articles/485890/
+https://scikit-learn.org/stable/install.html
+https://www.tensorflow.org/tutorials/images/classification#download_and_explore_the_dataset
+https://www.geeksforgeeks.org/resize-multiple-images-using-opencv-python/
+https://stackoverflow.com/questions/40050397/deep-learning-nan-loss-reasons
+https://gist.github.com/jasonacox/c64a0ef6dc65114372d96a91d64ecc5e
 ## Libraries
 * tensorflow
 * tensorflow.contrib.keras
